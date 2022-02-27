@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<QUERY>
+   <QUERYID>10.2452/304</QUERYID>
+   <TITLE> Endangered Species ( Mammals )</TITLE>
+   <DESC> Compile a list of mammals that are considered to be endangered , identify their habitat and , if possible , specify what threatens them .</DESC>
+   <NARR> Any document identifying a mammal as endangered is relevant . Statements of authorities disputing the endangered status would also be relevant . A document containing information on habitat and populations of a mammal identified elsewhere as endangered would also be relevant even if the document at_hand did not identify the species as endangered . Generalized statements about endangered species without reference_to specific mammals would not be relevant .</NARR>
+</QUERY>

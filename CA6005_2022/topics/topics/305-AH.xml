@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<QUERY>
+   <QUERYID>10.2452/305-AH</QUERYID>
+   <TITLE> Oil Prices</TITLE>
+   <DESC> What is the current price of oil ?</DESC>
+   <NARR> Only documents giving the current oil price are relevant , i.e. the price when the document was written . References_to oil prices in the past or predictions for price changes in the future are not relevant .</NARR>
+</QUERY>

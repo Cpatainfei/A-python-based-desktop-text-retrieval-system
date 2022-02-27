@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<QUERY>
+   <QUERYID>10.2452/308-AH</QUERYID>
+   <TITLE> Solar Eclipse</TITLE>
+   <DESC> Find documents reporting whole or partial_eclipses of the sun .</DESC>
+   <NARR> Any documents providing any kind of information on solar_eclipse are relevant . Documents about moon eclipses or planetary movements are not relevant .</NARR>
+</QUERY>

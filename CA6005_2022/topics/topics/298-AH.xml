@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<QUERY>
+   <QUERYID>10.2452/298-AH</QUERYID>
+   <TITLE> Nuclear Power_Stations</TITLE>
+   <DESC> Find documents reporting accidents in nuclear_power stations or discussing the likelihood of an accident and the potential risk to the population .</DESC>
+   <NARR> Relevant documents should specify the location or name of the nuclear_power station and either give some information on actual accidents or discuss potential risks .</NARR>
+</QUERY>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<QUERY>
+   <QUERYID>10.2452/300-AH</QUERYID>
+   <TITLE> Lottery Winnings</TITLE>
+   <DESC> Find documents about the winning of lottery prizes .</DESC>
+   <NARR> Only documents reporting the actual winning of lottery prizes and providing some kind of information about the winners , such_as their names , background or origins are relevant . Documents simply listing prizes to be awarded are not relevant</NARR>
+</QUERY>

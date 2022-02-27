@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<QUERY>
+   <QUERYID>10.2452/327-AH</QUERYID>
+   <TITLE> Earthquakes in Mexico_City</TITLE>
+   <DESC> Find documents that provide details on the impact of or the damage caused by earthquakes in Mexico_City in 1995 .</DESC>
+   <NARR> Relevant document should contain some information on earthquakes in Mexico_City in 1995 , such_as their magnitude , damages caused , panic of the inhabitants , etc . Documents on earthquakes in other places in Mexico are not relevant unless the seismic impact was also felt in Mexico_City .</NARR>
+</QUERY>
