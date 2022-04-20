@@ -11,7 +11,7 @@ import re
 
 # Retain document texts and document id
 
-document_path = './CA6005_2022/COLLECTION/COLLECTION/'
+document_path = 'CA6005_2022/COLLECTION/COLLECTION/'
 document_list = os.listdir(document_path)              # All the documents files
 Documents_id = []                                      # Document IDs
 Documents = []                                         # Documents List
@@ -155,3 +155,5 @@ with open("vocabulary", "w") as file:
     for i in vocabulary:
         file.write(i)
         file.write(" ")
+
+print("done")
